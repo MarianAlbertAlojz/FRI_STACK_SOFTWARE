@@ -1,2 +1,1 @@
-# FRI_STACK_SOFTWARE
- 
+This repository contains testing code for various peripherals of the FRI_STACK module, including I2C, SPI, UART, ADC, and others. It is developed as part of an engineering degree project focused on embedded systems and hardware-software integration.
