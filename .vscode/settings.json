@@ -21,6 +21,16 @@
         "i2c.h": "c",
         "gpio.h": "c",
         "esp_clk.h": "c",
-        "rtc.h": "c"
-    }
+        "rtc.h": "c",
+        "esp_event.h": "c",
+        "mqtt_client.h": "c",
+        "cant_test.h": "c",
+        "rtc_check.h": "c",
+        "esp_system.h": "c",
+        "mqtt.h": "c",
+        "mqtt_app.h": "c",
+        "mqtt_manager.h": "c",
+        "stdbool.h": "c"
+    },
+    "idf.flashType": "UART"
 }
